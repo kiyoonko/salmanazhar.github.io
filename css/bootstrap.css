@@ -61,10 +61,7 @@ header .intro-text .intro-heading {
 section{
     padding: 3vh;
     background-color: #2D2D2D;
-}
-
-section.portfolioSection{
-  min-height: 100vh;
+    min-height: 100vh;
 }
 
 section h2.section-heading {
@@ -84,6 +81,10 @@ section h3.section-subheading {
 
 section .texts{
     padding-left: 30px;
+}
+
+#myForm{
+  margin-top: 5vh;
 }
 
 #text
@@ -119,6 +120,15 @@ section .texts{
     content: url('../img/cs290Hover.png');
 }
 
+#CS342
+{
+    content: url('../img/cs342.png');
+}
+
+#CS342:hover {
+    content: url('../img/cs342Hover.png');
+}
+
 #CS408
 {
     content: url('../img/cs408.png');
@@ -126,6 +136,24 @@ section .texts{
 
 #CS408:hover {
     content: url('../img/cs408Hover.png');
+}
+
+#IE281
+{
+    content: url('../img/ie281.png');
+}
+
+#IE281:hover {
+    content: url('../img/ie281Hover.png');
+}
+
+#IE710
+{
+    content: url('../img/ie710.png');
+}
+
+#IE710:hover {
+    content: url('../img/ie710Hover.png');
 }
 
 #Moment
@@ -362,6 +390,341 @@ section .texts{
     content: url('../img/tapHover.png');
 }
 
+#Call9
+{
+    content: url('../img/call9.png');
+}
+
+#Call9:hover {
+    content: url('../img/call9Hover.png');
+}
+
+#dukeAngelNet
+{
+    content: url('../img/dukeAngel.png');
+}
+
+#dukeAngelNet:hover {
+    content: url('../img/dukeAngelHover.png');
+}
+
+#Copia
+{
+    content: url('../img/copia.png');
+}
+
+#Copia:hover {
+    content: url('../img/copiaHover.png');
+}
+
+#Netsil
+{
+    content: url('../img/netsil.png');
+}
+
+#Netsil:hover {
+    content: url('../img/netsilHover.png');
+}
+
+#Next
+{
+    content: url('../img/next.png');
+}
+
+#Next:hover {
+    content: url('../img/nextHover.png');
+}
+
+#Pay
+{
+    content: url('../img/pay.png');
+}
+
+#Pay:hover {
+    content: url('../img/payHover.png');
+}
+
+#Savioke
+{
+    content: url('../img/savioke.png');
+}
+
+#Savioke:hover {
+    content: url('../img/saviokeHover.png');
+}
+
+#Sky
+{
+    content: url('../img/sky.png');
+}
+
+#Sky:hover {
+    content: url('../img/skyHover.png');
+}
+
+#Swing
+{
+    content: url('../img/swing.png');
+}
+
+#Swing:hover {
+    content: url('../img/swingHover.png');
+}
+
+#Tegile
+{
+    content: url('../img/tegile.png');
+}
+
+#Tegile:hover {
+    content: url('../img/tegileHover.png');
+}
+
+#Twin
+{
+    content: url('../img/twin.png');
+}
+
+#Twin:hover {
+    content: url('../img/twinHover.png');
+}
+
+#Validere
+{
+    content: url('../img/validere.png');
+}
+
+#Validere:hover {
+    content: url('../img/validereHover.png');
+}
+
+#Viptela
+{
+    content: url('../img/viptela.png');
+}
+
+#Viptela:hover {
+    content: url('../img/viptelaHover.png');
+}
+
+#World
+{
+    content: url('../img/world.png');
+}
+
+#World:hover {
+    content: url('../img/worldHover.png');
+}
+
+#Node
+{
+    content: url('../img/node.png');
+}
+
+#Node:hover {
+    content: url('../img/nodeHover.png');
+}
+
+#Soha
+{
+    content: url('../img/soha.png');
+}
+
+#Soha:hover {
+    content: url('../img/sohaHover.png');
+}
+
+#Soha
+{
+    content: url('../img/soha.png');
+}
+
+#Soha:hover {
+    content: url('../img/sohaHover.png');
+}
+
+#Abang
+{
+    content: url('../img/abang.png');
+}
+
+#Abang:hover {
+    content: url('../img/abangHover.png');
+}
+
+#Vulcan
+{
+    content: url('../img/vulcan.png');
+}
+
+#Vulcan:hover {
+    content: url('../img/vulcanHover.png');
+}
+
+#Jetbay
+{
+    content: url('../img/jetbay.png');
+}
+
+#Jetbay:hover {
+    content: url('../img/jetbayHover.png');
+}
+
+#Carro
+{
+    content: url('../img/carro.png');
+}
+
+#Carro:hover {
+    content: url('../img/carroHover.png');
+}
+
+#Cafebond
+{
+    content: url('../img/cafebond.png');
+}
+
+#Cafebond:hover {
+    content: url('../img/cafebondHover.png');
+}
+
+#Kapital
+{
+    content: url('../img/kapital.png');
+}
+
+#Kapital:hover {
+    content: url('../img/kapitalHover.png');
+}
+
+#Spiking
+{
+    content: url('../img/spiking.png');
+}
+
+#Spiking:hover {
+    content: url('../img/spikingHover.png');
+}
+
+#Watch
+{
+    content: url('../img/watch.png');
+}
+
+#Watch:hover {
+    content: url('../img/watchHover.png');
+}
+
+#Pazpo
+{
+    content: url('../img/pazpo.png');
+}
+
+#Pazpo:hover {
+    content: url('../img/pazpoHover.png');
+}
+
+#Cloud
+{
+    content: url('../img/cloud.png');
+}
+
+#Cloud:hover {
+    content: url('../img/cloudHover.png');
+}
+
+#questMore
+{
+    content: url('../img/questMore.png');
+}
+
+#questMore:hover {
+    content: url('../img/questMoreHover.png');
+}
+
+#Comdata
+{
+    content: url('../img/comdata.png');
+}
+
+#Comdata:hover {
+    content: url('../img/comdataHover.png');
+}
+
+#Homair
+{
+    content: url('../img/homair.png');
+}
+
+#Homair:hover {
+    content: url('../img/homairHover.png');
+}
+
+#Hunk
+{
+    content: url('../img/hunk.png');
+}
+
+#Hunk:hover {
+    content: url('../img/hunkHover.png');
+}
+
+#Innovation
+{
+    content: url('../img/innovation.png');
+}
+
+#Innovation:hover {
+    content: url('../img/innovationHover.png');
+}
+
+#Inno
+{
+    content: url('../img/inno.png');
+}
+
+#Inno:hover {
+    content: url('../img/innoHover.png');
+}
+
+#PA
+{
+    content: url('../img/pa.png');
+}
+
+#PA:hover {
+    content: url('../img/paHover.png');
+}
+
+#Saver
+{
+    content: url('../img/saver.png');
+}
+
+#Saver:hover {
+    content: url('../img/saverHover.png');
+}
+
+#Sematic
+{
+    content: url('../img/sematic.png');
+}
+
+#Sematic:hover {
+    content: url('../img/sematicHover.png');
+}
+
+#Direct
+{
+  content: url('../img/direct.png');
+}
+
+#Direct:hover
+{
+  content: url('../img/directHover.png');
+}
+
+
 .contactForm{
   background-color: #222222;
   box-sizing: border-box;
@@ -370,7 +733,17 @@ section .texts{
 .formIntro{
   font-family: 'Montserrat';
   color: #ffffff;
-  font-size: 35px;
+  font-size: 50px;
+  margin-bottom: 3vh;
+  text-align: center;
+}
+
+.formSub{
+  font-family: 'Montserrat';
+  color: #ffffff;
+  font-size: 25px;
+  margin-bottom: 10vh;
+  text-align: center;
 }
 
 .formHeading{
@@ -392,6 +765,10 @@ header .intro-text .intro-body {
   img.comp{
     height: 72px;
     width: 72px;
+  }
+  img.compSub{
+    height: 36px;
+    width: 36px;
   }
   img.title{
      height:61px;
@@ -433,6 +810,12 @@ header .intro-text .intro-body {
     height: 85px;
     width: 85px;
   }
+
+  img.compSub{
+    height: 42px;
+    width: 42px;
+  }
+
   img.title{
      height:61px;
      width: 199px;
@@ -448,6 +831,10 @@ header .intro-text .intro-body {
   img.comp{
     height: 174px;
     width: 174px;
+  }
+  img.compSub{
+    height: 87px;
+    width: 87px;
   }
    img.title{
      height:120px;
@@ -490,6 +877,10 @@ header .intro-text .intro-body {
     height: 174px;
     width: 174px;
   }
+  img.compSub{
+    height: 87px;
+    width: 87px;
+  }
    img.title{
      height:181px;
      width: 596px;
@@ -505,6 +896,10 @@ header .intro-text .intro-body {
     img.comp{
     height: 174px;
     width: 174px;
+  }
+  img.compSub{
+    height: 87px;
+    width: 87px;
   }
    img.title{
      height:181px;
@@ -2113,6 +2508,7 @@ pre code {
 .row {
   margin-left: -15px;
   margin-right: -15px;
+  margin-top: 2vh;
 }
 .col-xs-1, .col-sm-1, .col-md-1, .col-lg-1, .col-xs-2, .col-sm-2, .col-md-2, .col-lg-2, .col-xs-3, .col-sm-3, .col-md-3, .col-lg-3, .col-xs-4, .col-sm-4, .col-md-4, .col-lg-4, .col-xs-5, .col-sm-5, .col-md-5, .col-lg-5, .col-xs-6, .col-sm-6, .col-md-6, .col-lg-6, .col-xs-7, .col-sm-7, .col-md-7, .col-lg-7, .col-xs-8, .col-sm-8, .col-md-8, .col-lg-8, .col-xs-9, .col-sm-9, .col-md-9, .col-lg-9, .col-xs-10, .col-sm-10, .col-md-10, .col-lg-10, .col-xs-11, .col-sm-11, .col-md-11, .col-lg-11, .col-xs-12, .col-sm-12, .col-md-12, .col-lg-12 {
   position: relative;
@@ -3976,7 +4372,7 @@ input[type="button"].btn-block {
   opacity: 1;
 }
 .collapse {
-  display: none;
+  display: hidden;
 }
 .collapse.in {
   display: block;
@@ -3992,15 +4388,20 @@ tbody.collapse.in {
   height: 0;
   overflow: hidden;
   -webkit-transition-property: height, visibility;
-  -o-transition-property: height, visibility;
-     transition-property: height, visibility;
+  transition-property: height, visibility;
   -webkit-transition-duration: 0.35s;
-  -o-transition-duration: 0.35s;
-     transition-duration: 0.35s;
+  transition-duration: 0.35s;
   -webkit-transition-timing-function: ease;
-  -o-transition-timing-function: ease;
-     transition-timing-function: ease;
+  transition-timing-function: ease;
 }
+
+.collapsing.width {
+  -webkit-transition-property: width, visibility;
+  transition-property: width, visibility;
+  width: 0;
+  height: auto;
+}
+
 .caret {
   display: inline-block;
   width: 0;
