@@ -724,6 +724,64 @@ section .texts{
   content: url('../img/directHover.png');
 }
 
+#Paradata
+{
+  content: url('../img/para.png');
+}
+
+#Paradata:hover
+{
+  content: url('../img/paraHover.png');
+}
+
+#Market
+{
+  content: url('../img/market.png');
+}
+
+#Market:hover
+{
+  content: url('../img/marketHover.png');
+}
+
+#Eco
+{
+  content: url('../img/ecosense.png');
+}
+
+#Eco:hover
+{
+  content: url('../img/ecosenseHover.png');
+}
+
+#Rest
+{
+  content: url('../img/rest.png');
+}
+
+#Rest:hover
+{
+  content: url('../img/restHover.png');
+}
+
+#Qraved
+{
+  content: url('../img/qraved.png');
+}
+
+#Qraved:hover
+{
+  content: url('../img/qravedHover.png');
+}
+
+.indenting{
+  margin-left: 15px;
+  margin-right: 15px;
+  padding-left: 15px;
+  padding-bottom: 15px;
+  padding-top: 15px;
+  padding-right: 15px;
+}
 
 .contactForm{
   background-color: #222222;
@@ -2478,8 +2536,8 @@ pre code {
   overflow-y: scroll;
 }
 .container {
-  margin-right: auto;
-  margin-left: auto;
+  margin-right: 15px;
+  margin-left: 15px;
   padding-left: 15px;
   padding-right: 15px;
   padding-bottom: 15px;
